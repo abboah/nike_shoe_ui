@@ -1,16 +1,3 @@
-# sample_home
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# nike_shoe_ui
+![Screenshot_1695435805](https://github.com/abboah/nike_shoe_ui/assets/124472979/dd38ee7d-b3eb-4ceb-b1dd-763e370ba362)
+![Screenshot_1695436007](https://github.com/abboah/nike_shoe_ui/assets/124472979/25a873b6-85fa-453a-9893-007ceb5d38ed)
